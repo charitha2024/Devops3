@@ -1,2 +1,4 @@
 print('Good Morning!')
-print('It is rainy today')
+Hi
+Hello
+print('It is rainy today)
